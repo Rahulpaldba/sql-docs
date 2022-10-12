@@ -16,7 +16,7 @@ f1_keywords:
   This F1 help topic describes the options of the **Add IP Address** dialog box. This dialog box accessed from the **New Availability Group Listener** dialog box and the **Listener** tab of the **Specify Replicas** page of the [!INCLUDE[ssAoNewAgWiz](../../../includes/ssaonewagwiz-md.md)] or the [!INCLUDE[ssAoAddRepWiz](../../../includes/ssaoaddrepwiz-md.md)] of [!INCLUDE[ssnoversion](../../../includes/ssnoversion-md.md)].  
   
 ## Prerequisites  
- Before you begin to add subnets to an availability group listener, ensure that know the IP address for each subnet and, for an IPv4 address, the subnet mask.  
+ Before you begin to add subnets to an availability group listener, ensure that you know the IP address for each subnet and, for an IPv4 address, the subnet mask.  
   
 ##  <a name="PageOptions"></a> Add IP Address Options  
  **Subnet**  
